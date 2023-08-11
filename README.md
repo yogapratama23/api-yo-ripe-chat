@@ -1,3 +1,5 @@
+## Yo Ripe Simple Chat App API
+
 ## Running the app
 ```bash
 # install all dependencies
