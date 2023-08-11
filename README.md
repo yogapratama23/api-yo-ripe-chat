@@ -1,4 +1,4 @@
-## Yo Ripe Simple Chat App API
+## YoRipe Simple Chat App API
 
 ## Running the app
 ```bash
